@@ -16,7 +16,7 @@ html, body {
 
 body {
     background-color: var(--yellow);
-    background-image: url("website_images/mainbackground.png");
+    background-image: url("../website_images/mainbackground.png");
     font-family: "Rubik", serif;
     font-size: 20px;
 }
